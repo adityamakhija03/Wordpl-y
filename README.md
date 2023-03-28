@@ -1,2 +1,2 @@
 # Wordpl-y
-it is just a fun website   
+It is just a fun website   
